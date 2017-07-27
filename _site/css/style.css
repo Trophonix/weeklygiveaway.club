@@ -1,0 +1,15 @@
+body{
+    background-color: #fff;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#banner{
+    padding-bottom:40px;
+}
+
+footer{
+    background-color: #3e2d69;
+    height:200px;
+    margin-top: 40px;
+}
+
