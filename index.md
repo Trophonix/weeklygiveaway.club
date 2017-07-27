@@ -1,4 +1,5 @@
-# Website coming soon!
----
-
-In the meantime, [follow us on Twitter](https://twitter.com/GiveawaysClub) for updates on the latest giveaways!
+<a class="twitter-timeline"
+  href="https://twitter.com/GiveawaysClub"
+  data-tweet-limit="5">
+@GiveawaysClub Twitter Feed
+</a>
