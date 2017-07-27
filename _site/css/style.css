@@ -1,0 +1,33 @@
+body{
+    background-color: #fff;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#header{
+    margin-bottom:50px;
+    width:;
+    height:100px;
+    background-color: #24292e;
+    color:white;
+}
+
+#header h2{
+    color:white;
+    margin-top: 35px;
+    margin-left: 30px;
+
+}
+
+footer{
+    background-color: #3e2d69;
+    height:200px;
+    margin-top: 40px;
+}
+
+.logo{
+    border-radius: 10000px;
+    height: 80px;
+    width: 80px;
+    margin-top:10px;
+    margin-right: 30px;
+}
