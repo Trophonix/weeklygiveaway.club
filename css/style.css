@@ -22,6 +22,7 @@ footer{
     background-color: #3e2d69;
     height:200px;
     margin-top: 40px;
+    
 }
 
 .logo{
@@ -30,4 +31,34 @@ footer{
     width: 80px;
     margin-top:10px;
     margin-right: 30px;
+}
+
+.twitter-vouch {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.twitter-vouch h2 {
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.slick-slide{
+        outline:0 !important;
+    border:none !important;
+    -moz-outline-style: none !important;
+    text-decoration: none !important;
+}
+
+.twitter-vouch i {
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+.twitter-vouch i:hover{
+    font-size: 32px;
+}
+
+.regular{
+    height: 200px;
 }
