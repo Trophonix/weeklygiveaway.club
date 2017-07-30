@@ -37,3 +37,7 @@ $('.regular').slick({
     // instead of a settings object
   ]
 });
+
+$(document).ready(function() {
+    $("body").tooltip({ selector: '[data-toggle=tooltip]' });
+});
